@@ -1,1 +1,1 @@
-web: gunicorn ShubhamCV.wsgi
+web: gunicorn ShubhamCV.wsgi --log-file -
